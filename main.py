@@ -107,3 +107,21 @@ def create_train_test(year):
 
 train_2012, x_train_2012, y_train_2012 = create_train_test(2012)
 test_2016, x_test_2016, y_test_2016 = create_train_test(2016)
+
+def test_harness(): # source: lecture
+    '''Determine which model will be best to use'''
+    models = [('Dec Tree', DecisionTreeClassifier()),
+              ('Lin Disc', LinearDiscriminantAnalysis()),
+              ('SVC', SVC(gamma='auto')),
+              ('Gaussian', GaussianNB())]
+    results = []
+
+    for name, model in models:
+        kf = StratifiedKFold(n_splits=10)
+        res = cross_val_score(model, x_train_2012, y_train_2012, cv=kf, scoring='accuracy')
+        res_mean = round(res.mean(), 4)
+        res_std  = round(res.std(), 4)
+        results.append((name, res_mean, res_std))
+    return results
+
+accuracy_results = test_harness()
