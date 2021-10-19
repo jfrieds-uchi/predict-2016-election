@@ -85,3 +85,25 @@ def merged_cleaning():
     return pres_merged
 
 pres_merged = merged_cleaning()
+
+def create_train_test(year):
+    '''Create and split training and testing datasets, which will be various
+    presidential election years'''
+    df = pres_merged[pres_merged['year'] == year]
+    maximums = df.groupby(['state'])['pct_vote'].max().reset_index()
+    df = df.merge(maximums, left_on='state', right_on='state', how='left')
+    df['winner'] = np.where(df['pct_vote_x']==df['pct_vote_y'], 1, 0) # source: https://stackoverflow.com/questions/44067524/creating-a-new-column-depending-on-the-equality-of-two-other-columns
+    df = df[df['winner'] == 1]
+    df = df[['state', 'party', 'percap_net_earn', 'hospitality',
+             'agriculture', 'arts', 'education', 'finance', 'healthcare',
+             'information', 'manufacturing', 'mining', 'professional services',
+             'real estate', 'retail trade', 'government']]
+    df['state'] = df['state'].astype(str)
+    df['party'] = df['party'].astype(str)
+    x_train_test = df[['percap_net_earn', 'hospitality', 'education', 'finance', 'healthcare',
+                       'manufacturing', 'government']]
+    y_train_test = df[['party']]
+    return df, x_train_test, y_train_test
+
+train_2012, x_train_2012, y_train_2012 = create_train_test(2012)
+test_2016, x_test_2016, y_test_2016 = create_train_test(2016)
