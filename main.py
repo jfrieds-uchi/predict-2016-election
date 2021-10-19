@@ -70,3 +70,18 @@ def read_clean_industry():
     return industry
 
 industry = read_clean_industry()
+
+def merged_cleaning():
+    '''Merges and cleans dataframe for analysis'''
+    pres_merged = presidents.merge(state_emp, left_on=['state', 'year'],
+                                              right_on=['GeoName', 'Year'],
+                                              how='inner')
+    pres_merged = pres_merged.drop(columns=['GeoName', 'Year'])
+    pres_merged = pres_merged.merge(industry, left_on=['state', 'year'],
+                                              right_on=['GeoName', 'Year'],
+                                              how='left')
+    pres_merged = pres_merged.drop(columns=['GeoName', 'Year'])
+    pres_merged['pct_vote'] = pres_merged['candidatevotes'] / pres_merged['totalvotes']
+    return pres_merged
+
+pres_merged = merged_cleaning()
