@@ -1,0 +1,570 @@
+"SAINC30 Economic Profile"
+"" 
+"Bureau of Economic Analysis" 
+"State or DC"
+"GeoFips","GeoName","LineCode","Description","2012","2016"
+"01000","Alabama","","Place of residence profile","",""
+"01000","Alabama","10","Personal income (millions of dollars)",172804.1,192281.9
+"01000","Alabama","","Derivation of personal income","",""
+"01000","Alabama","45","Net earnings by place of residence",103069.4,112735.0
+"01000","Alabama","","Per capita incomes (dollars)","",""
+"01000","Alabama","110","Per capita personal income 4/",35884,39536
+"01000","Alabama","120","Per capita net earnings 4/",21403,23180
+"01000","Alabama","","Place of work profile (millions of dollars)","",""
+"01000","Alabama","180","Earnings by place of work",112660.6,125150.5
+"01000","Alabama","190","  Wages and salaries",81166.9,90591.1
+"01000","Alabama","290","Average earnings per job (dollars)",44998,47771
+"02000","Alaska","","Place of residence profile","",""
+"02000","Alaska","10","Personal income (millions of dollars)",39169.2,41745.6
+"02000","Alaska","","Derivation of personal income","",""
+"02000","Alaska","45","Net earnings by place of residence",26752.6,27300.3
+"02000","Alaska","","Per capita incomes (dollars)","",""
+"02000","Alaska","110","Per capita personal income 4/",53624,56302
+"02000","Alaska","120","Per capita net earnings 4/",36625,36820
+"02000","Alaska","","Place of work profile (millions of dollars)","",""
+"02000","Alaska","180","Earnings by place of work",29655.7,30550.5
+"02000","Alaska","190","  Wages and salaries",19588.2,20495.9
+"02000","Alaska","290","Average earnings per job (dollars)",64578,66773
+"04000","Arizona","","Place of residence profile","",""
+"04000","Arizona","10","Personal income (millions of dollars)",236846.1,283199.3
+"04000","Arizona","","Derivation of personal income","",""
+"04000","Arizona","45","Net earnings by place of residence",144295.8,170410.7
+"04000","Arizona","","Per capita incomes (dollars)","",""
+"04000","Arizona","110","Per capita personal income 4/",36132,40801
+"04000","Arizona","120","Per capita net earnings 4/",22013,24551
+"04000","Arizona","","Place of work profile (millions of dollars)","",""
+"04000","Arizona","180","Earnings by place of work",159469.6,190712.0
+"04000","Arizona","190","  Wages and salaries",118948.3,139338.8
+"04000","Arizona","290","Average earnings per job (dollars)",48390,52308
+"05000","Arkansas","","Place of residence profile","",""
+"05000","Arkansas","10","Personal income (millions of dollars)",106984.7,120748.2
+"05000","Arkansas","","Derivation of personal income","",""
+"05000","Arkansas","45","Net earnings by place of residence",59548.4,64164.6
+"05000","Arkansas","","Per capita incomes (dollars)","",""
+"05000","Arkansas","110","Per capita personal income 4/",36239,40385
+"05000","Arkansas","120","Per capita net earnings 4/",20171,21460
+"05000","Arkansas","","Place of work profile (millions of dollars)","",""
+"05000","Arkansas","180","Earnings by place of work",66962.6,73354.2
+"05000","Arkansas","190","  Wages and salaries",47879.7,53910.7
+"05000","Arkansas","290","Average earnings per job (dollars)",42784,45016
+"06000","California","","Place of residence profile","",""
+"06000","California","10","Personal income (millions of dollars)",1852397.5,2273557.5
+"06000","California","","Derivation of personal income","",""
+"06000","California","45","Net earnings by place of residence",1205132.8,1442662.4
+"06000","California","","Per capita incomes (dollars)","",""
+"06000","California","110","Per capita personal income 4/",48813,58048
+"06000","California","120","Per capita net earnings 4/",31757,36834
+"06000","California","","Place of work profile (millions of dollars)","",""
+"06000","California","180","Earnings by place of work",1325712.7,1607311.6
+"06000","California","190","  Wages and salaries",903208.8,1117011.7
+"06000","California","290","Average earnings per job (dollars)",64147,69386
+"08000","Colorado","","Place of residence profile","",""
+"08000","Colorado","10","Personal income (millions of dollars)",237141.5,290669.6
+"08000","Colorado","","Derivation of personal income","",""
+"08000","Colorado","45","Net earnings by place of residence",154207.9,186225.0
+"08000","Colorado","","Per capita incomes (dollars)","",""
+"08000","Colorado","110","Per capita personal income 4/",45669,52475
+"08000","Colorado","120","Per capita net earnings 4/",29697,33619
+"08000","Colorado","","Place of work profile (millions of dollars)","",""
+"08000","Colorado","180","Earnings by place of work",169753.0,207593.1
+"08000","Colorado","190","  Wages and salaries",124947.2,151085.8
+"08000","Colorado","290","Average earnings per job (dollars)",52025,56596
+"09000","Connecticut","","Place of residence profile","",""
+"09000","Connecticut","10","Personal income (millions of dollars)",233337.8,250178.6
+"09000","Connecticut","","Derivation of personal income","",""
+"09000","Connecticut","45","Net earnings by place of residence",157087.4,162775.2
+"09000","Connecticut","","Per capita incomes (dollars)","",""
+"09000","Connecticut","110","Per capita personal income 4/",64914,69919
+"09000","Connecticut","120","Per capita net earnings 4/",43702,45492
+"09000","Connecticut","","Place of work profile (millions of dollars)","",""
+"09000","Connecticut","180","Earnings by place of work",157217.6,166830.1
+"09000","Connecticut","190","  Wages and salaries",104234.9,113257.5
+"09000","Connecticut","290","Average earnings per job (dollars)",70716,72534
+"10000","Delaware","","Place of residence profile","",""
+"10000","Delaware","10","Personal income (millions of dollars)",40338.4,46341.8
+"10000","Delaware","","Derivation of personal income","",""
+"10000","Delaware","45","Net earnings by place of residence",25456.4,28218.4
+"10000","Delaware","","Per capita incomes (dollars)","",""
+"10000","Delaware","110","Per capita personal income 4/",44077,48836
+"10000","Delaware","120","Per capita net earnings 4/",27816,29737
+"10000","Delaware","","Place of work profile (millions of dollars)","",""
+"10000","Delaware","180","Earnings by place of work",30602.1,34210.4
+"10000","Delaware","190","  Wages and salaries",22034.8,24661.2
+"10000","Delaware","290","Average earnings per job (dollars)",57279,59116
+"11000","District of Columbia","","Place of residence profile","",""
+"11000","District of Columbia","10","Personal income (millions of dollars)",43426.9,53375.8
+"11000","District of Columbia","","Derivation of personal income","",""
+"11000","District of Columbia","45","Net earnings by place of residence",29568.5,36908.3
+"11000","District of Columbia","","Per capita incomes (dollars)","",""
+"11000","District of Columbia","110","Per capita personal income 4/",68397,77828
+"11000","District of Columbia","120","Per capita net earnings 4/",46570,53817
+"11000","District of Columbia","","Place of work profile (millions of dollars)","",""
+"11000","District of Columbia","180","Earnings by place of work",82523.7,95989.4
+"11000","District of Columbia","190","  Wages and salaries",61162.1,69935.5
+"11000","District of Columbia","290","Average earnings per job (dollars)",98900,107666
+"12000","Florida","","Place of residence profile","",""
+"12000","Florida","10","Personal income (millions of dollars)",793428.8,949718.0
+"12000","Florida","","Derivation of personal income","",""
+"12000","Florida","45","Net earnings by place of residence",422616.3,506613.6
+"12000","Florida","","Per capita incomes (dollars)","",""
+"12000","Florida","110","Per capita personal income 4/",41115,46073
+"12000","Florida","120","Per capita net earnings 4/",21900,24577
+"12000","Florida","","Place of work profile (millions of dollars)","",""
+"12000","Florida","180","Earnings by place of work",468412.9,568848.3
+"12000","Florida","190","  Wages and salaries",346080.5,424049.9
+"12000","Florida","290","Average earnings per job (dollars)",45703,48730
+"13000","Georgia","","Place of residence profile","",""
+"13000","Georgia","10","Personal income (millions of dollars)",368868.1,441905.5
+"13000","Georgia","","Derivation of personal income","",""
+"13000","Georgia","45","Net earnings by place of residence",239393.4,286417.5
+"13000","Georgia","","Per capita incomes (dollars)","",""
+"13000","Georgia","110","Per capita personal income 4/",37254,42896
+"13000","Georgia","120","Per capita net earnings 4/",24178,27802
+"13000","Georgia","","Place of work profile (millions of dollars)","",""
+"13000","Georgia","180","Earnings by place of work",266463.5,322808.1
+"13000","Georgia","190","  Wages and salaries",195336.7,234810.9
+"13000","Georgia","290","Average earnings per job (dollars)",49486,54054
+"15000","Hawaii","","Place of residence profile","",""
+"15000","Hawaii","10","Personal income (millions of dollars)",62455.9,73048.0
+"15000","Hawaii","","Derivation of personal income","",""
+"15000","Hawaii","45","Net earnings by place of residence",39862.7,45722.8
+"15000","Hawaii","","Per capita incomes (dollars)","",""
+"15000","Hawaii","110","Per capita personal income 4/",44778,51170
+"15000","Hawaii","120","Per capita net earnings 4/",28579,32029
+"15000","Hawaii","","Place of work profile (millions of dollars)","",""
+"15000","Hawaii","180","Earnings by place of work",44495.7,51550.8
+"15000","Hawaii","190","  Wages and salaries",30667.3,35858.3
+"15000","Hawaii","290","Average earnings per job (dollars)",52400,56458
+"16000","Idaho","","Place of residence profile","",""
+"16000","Idaho","10","Personal income (millions of dollars)",56139.8,68248.4
+"16000","Idaho","","Derivation of personal income","",""
+"16000","Idaho","45","Net earnings by place of residence",33435.0,40354.1
+"16000","Idaho","","Per capita incomes (dollars)","",""
+"16000","Idaho","110","Per capita personal income 4/",35190,40567
+"16000","Idaho","120","Per capita net earnings 4/",20958,23986
+"16000","Idaho","","Place of work profile (millions of dollars)","",""
+"16000","Idaho","180","Earnings by place of work",36382.1,44401.5
+"16000","Idaho","190","  Wages and salaries",24151.2,29430.2
+"16000","Idaho","290","Average earnings per job (dollars)",41196,45458
+"17000","Illinois","","Place of residence profile","",""
+"17000","Illinois","10","Personal income (millions of dollars)",593239.1,672019.9
+"17000","Illinois","","Derivation of personal income","",""
+"17000","Illinois","45","Net earnings by place of residence",390834.9,436845.6
+"17000","Illinois","","Per capita incomes (dollars)","",""
+"17000","Illinois","110","Per capita personal income 4/",46050,52417
+"17000","Illinois","120","Per capita net earnings 4/",30338,34074
+"17000","Illinois","","Place of work profile (millions of dollars)","",""
+"17000","Illinois","180","Earnings by place of work",434255.4,490455.0
+"17000","Illinois","190","  Wages and salaries",314743.6,355777.5
+"17000","Illinois","290","Average earnings per job (dollars)",58410,62886
+"18000","Indiana","","Place of residence profile","",""
+"18000","Indiana","10","Personal income (millions of dollars)",257149.5,289731.4
+"18000","Indiana","","Derivation of personal income","",""
+"18000","Indiana","45","Net earnings by place of residence",168405.9,187810.2
+"18000","Indiana","","Per capita incomes (dollars)","",""
+"18000","Indiana","110","Per capita personal income 4/",39333,43672
+"18000","Indiana","120","Per capita net earnings 4/",25759,28309
+"18000","Indiana","","Place of work profile (millions of dollars)","",""
+"18000","Indiana","180","Earnings by place of work",181463.5,204747.5
+"18000","Indiana","190","  Wages and salaries",124641.8,142939.6
+"18000","Indiana","290","Average earnings per job (dollars)",49821,53213
+"19000","Iowa","","Place of residence profile","",""
+"19000","Iowa","10","Personal income (millions of dollars)",131984.2,145756.4
+"19000","Iowa","","Derivation of personal income","",""
+"19000","Iowa","45","Net earnings by place of residence",85520.7,91817.1
+"19000","Iowa","","Per capita incomes (dollars)","",""
+"19000","Iowa","110","Per capita personal income 4/",42905,46547
+"19000","Iowa","120","Per capita net earnings 4/",27801,29322
+"19000","Iowa","","Place of work profile (millions of dollars)","",""
+"19000","Iowa","180","Earnings by place of work",93675.6,102646.7
+"19000","Iowa","190","  Wages and salaries",62154.1,71721.0
+"19000","Iowa","290","Average earnings per job (dollars)",46992,49676
+"20000","Kansas","","Place of residence profile","",""
+"20000","Kansas","10","Personal income (millions of dollars)",130182.0,137945.1
+"20000","Kansas","","Derivation of personal income","",""
+"20000","Kansas","45","Net earnings by place of residence",85885.7,89267.9
+"20000","Kansas","","Per capita incomes (dollars)","",""
+"20000","Kansas","110","Per capita personal income 4/",45120,47390
+"20000","Kansas","120","Per capita net earnings 4/",29767,30667
+"20000","Kansas","","Place of work profile (millions of dollars)","",""
+"20000","Kansas","180","Earnings by place of work",93061.8,98902.7
+"20000","Kansas","190","  Wages and salaries",60616.5,67213.5
+"20000","Kansas","290","Average earnings per job (dollars)",50539,51608
+"21000","Kentucky","","Place of residence profile","",""
+"21000","Kentucky","10","Personal income (millions of dollars)",156827.6,176435.1
+"21000","Kentucky","","Derivation of personal income","",""
+"21000","Kentucky","45","Net earnings by place of residence",95209.1,104258.7
+"21000","Kentucky","","Per capita incomes (dollars)","",""
+"21000","Kentucky","110","Per capita personal income 4/",35754,39754
+"21000","Kentucky","120","Per capita net earnings 4/",21706,23491
+"21000","Kentucky","","Place of work profile (millions of dollars)","",""
+"21000","Kentucky","180","Earnings by place of work",108890.4,120557.0
+"21000","Kentucky","190","  Wages and salaries",77058.3,87705.3
+"21000","Kentucky","290","Average earnings per job (dollars)",45573,48245
+"22000","Louisiana","","Place of residence profile","",""
+"22000","Louisiana","10","Personal income (millions of dollars)",186589.4,198952.0
+"22000","Louisiana","","Derivation of personal income","",""
+"22000","Louisiana","45","Net earnings by place of residence",117189.5,120678.1
+"22000","Louisiana","","Per capita incomes (dollars)","",""
+"22000","Louisiana","110","Per capita personal income 4/",40554,42528
+"22000","Louisiana","120","Per capita net earnings 4/",25471,25796
+"22000","Louisiana","","Place of work profile (millions of dollars)","",""
+"22000","Louisiana","180","Earnings by place of work",128701.2,135183.0
+"22000","Louisiana","190","  Wages and salaries",89000.9,95650.0
+"22000","Louisiana","290","Average earnings per job (dollars)",49478,50239
+"23000","Maine","","Place of residence profile","",""
+"23000","Maine","10","Personal income (millions of dollars)",53490.0,59685.4
+"23000","Maine","","Derivation of personal income","",""
+"23000","Maine","45","Net earnings by place of residence",32132.2,35347.7
+"23000","Maine","","Per capita incomes (dollars)","",""
+"23000","Maine","110","Per capita personal income 4/",40287,44832
+"23000","Maine","120","Per capita net earnings 4/",24201,26551
+"23000","Maine","","Place of work profile (millions of dollars)","",""
+"23000","Maine","180","Earnings by place of work",34910.7,38962.3
+"23000","Maine","190","  Wages and salaries",24325.1,27668.2
+"23000","Maine","290","Average earnings per job (dollars)",43808,47132
+"24000","Maryland","","Place of residence profile","",""
+"24000","Maryland","10","Personal income (millions of dollars)",315230.9,354260.6
+"24000","Maryland","","Derivation of personal income","",""
+"24000","Maryland","45","Net earnings by place of residence",214444.3,237978.4
+"24000","Maryland","","Per capita incomes (dollars)","",""
+"24000","Maryland","110","Per capita personal income 4/",53547,59011
+"24000","Maryland","120","Per capita net earnings 4/",36427,39641
+"24000","Maryland","","Place of work profile (millions of dollars)","",""
+"24000","Maryland","180","Earnings by place of work",212267.7,241312.1
+"24000","Maryland","190","  Wages and salaries",148855.8,167388.4
+"24000","Maryland","290","Average earnings per job (dollars)",61726,66006
+"25000","Massachusetts","","Place of residence profile","",""
+"25000","Massachusetts","10","Personal income (millions of dollars)",382009.4,448480.5
+"25000","Massachusetts","","Derivation of personal income","",""
+"25000","Massachusetts","45","Net earnings by place of residence",252649.7,290660.7
+"25000","Massachusetts","","Per capita incomes (dollars)","",""
+"25000","Massachusetts","110","Per capita personal income 4/",57333,65725
+"25000","Massachusetts","120","Per capita net earnings 4/",37918,42596
+"25000","Massachusetts","","Place of work profile (millions of dollars)","",""
+"25000","Massachusetts","180","Earnings by place of work",285943.4,332869.1
+"25000","Massachusetts","190","  Wages and salaries",203708.7,242678.8
+"25000","Massachusetts","290","Average earnings per job (dollars)",67228,70674
+"26000","Michigan","","Place of residence profile","",""
+"26000","Michigan","10","Personal income (millions of dollars)",386568.4,444166.8
+"26000","Michigan","","Derivation of personal income","",""
+"26000","Michigan","45","Net earnings by place of residence",238126.1,269262.5
+"26000","Michigan","","Per capita incomes (dollars)","",""
+"26000","Michigan","110","Per capita personal income 4/",39059,44637
+"26000","Michigan","120","Per capita net earnings 4/",24060,27060
+"26000","Michigan","","Place of work profile (millions of dollars)","",""
+"26000","Michigan","180","Earnings by place of work",263944.9,302673.3
+"26000","Michigan","190","  Wages and salaries",189590.6,222633.0
+"26000","Michigan","290","Average earnings per job (dollars)",50424,54285
+"27000","Minnesota","","Place of residence profile","",""
+"27000","Minnesota","10","Personal income (millions of dollars)",257319.7,293162.5
+"27000","Minnesota","","Derivation of personal income","",""
+"27000","Minnesota","45","Net earnings by place of residence",170193.5,188723.7
+"27000","Minnesota","","Per capita incomes (dollars)","",""
+"27000","Minnesota","110","Per capita personal income 4/",47859,53083
+"27000","Minnesota","120","Per capita net earnings 4/",31654,34172
+"27000","Minnesota","","Place of work profile (millions of dollars)","",""
+"27000","Minnesota","180","Earnings by place of work",190181.4,214545.4
+"27000","Minnesota","190","  Wages and salaries",135334.4,158123.8
+"27000","Minnesota","290","Average earnings per job (dollars)",54251,58012
+"28000","Mississippi","","Place of residence profile","",""
+"28000","Mississippi","10","Personal income (millions of dollars)",99386.4,106585.1
+"28000","Mississippi","","Derivation of personal income","",""
+"28000","Mississippi","45","Net earnings by place of residence",58635.9,61328.1
+"28000","Mississippi","","Per capita incomes (dollars)","",""
+"28000","Mississippi","110","Per capita personal income 4/",33308,35672
+"28000","Mississippi","120","Per capita net earnings 4/",19651,20525
+"28000","Mississippi","","Place of work profile (millions of dollars)","",""
+"28000","Mississippi","180","Earnings by place of work",62403.0,66226.1
+"28000","Mississippi","190","  Wages and salaries",43385.2,47359.7
+"28000","Mississippi","290","Average earnings per job (dollars)",41062,41919
+"29000","Missouri","","Place of residence profile","",""
+"29000","Missouri","10","Personal income (millions of dollars)",241762.7,269771.2
+"29000","Missouri","","Derivation of personal income","",""
+"29000","Missouri","45","Net earnings by place of residence",149662.0,164291.7
+"29000","Missouri","","Per capita incomes (dollars)","",""
+"29000","Missouri","110","Per capita personal income 4/",40131,44318
+"29000","Missouri","120","Per capita net earnings 4/",24843,26990
+"29000","Missouri","","Place of work profile (millions of dollars)","",""
+"29000","Missouri","180","Earnings by place of work",171287.4,190906.3
+"29000","Missouri","190","  Wages and salaries",121318.8,137930.7
+"29000","Missouri","290","Average earnings per job (dollars)",48549,51587
+"30000","Montana","","Place of residence profile","",""
+"30000","Montana","10","Personal income (millions of dollars)",40471.0,45822.5
+"30000","Montana","","Derivation of personal income","",""
+"30000","Montana","45","Net earnings by place of residence",23948.9,25926.5
+"30000","Montana","","Per capita incomes (dollars)","",""
+"30000","Montana","110","Per capita personal income 4/",40319,44024
+"30000","Montana","120","Per capita net earnings 4/",23859,24909
+"30000","Montana","","Place of work profile (millions of dollars)","",""
+"30000","Montana","180","Earnings by place of work",26461.4,29212.0
+"30000","Montana","190","  Wages and salaries",17110.5,19806.5
+"30000","Montana","290","Average earnings per job (dollars)",41794,43743
+"31000","Nebraska","","Place of residence profile","",""
+"31000","Nebraska","10","Personal income (millions of dollars)",86293.7,94547.5
+"31000","Nebraska","","Derivation of personal income","",""
+"31000","Nebraska","45","Net earnings by place of residence",57179.7,61635.3
+"31000","Nebraska","","Per capita incomes (dollars)","",""
+"31000","Nebraska","110","Per capita personal income 4/",46562,49615
+"31000","Nebraska","120","Per capita net earnings 4/",30853,32344
+"31000","Nebraska","","Place of work profile (millions of dollars)","",""
+"31000","Nebraska","180","Earnings by place of work",64076.8,70286.2
+"31000","Nebraska","190","  Wages and salaries",40467.3,46870.3
+"31000","Nebraska","290","Average earnings per job (dollars)",51210,53618
+"32000","Nevada","","Place of residence profile","",""
+"32000","Nevada","10","Personal income (millions of dollars)",108825.1,132315.0
+"32000","Nevada","","Derivation of personal income","",""
+"32000","Nevada","45","Net earnings by place of residence",66694.5,77530.6
+"32000","Nevada","","Per capita incomes (dollars)","",""
+"32000","Nevada","110","Per capita personal income 4/",39659,45351
+"32000","Nevada","120","Per capita net earnings 4/",24306,26574
+"32000","Nevada","","Place of work profile (millions of dollars)","",""
+"32000","Nevada","180","Earnings by place of work",74125.3,87570.4
+"32000","Nevada","190","  Wages and salaries",53046.9,64450.0
+"32000","Nevada","290","Average earnings per job (dollars)",48792,50761
+"33000","New Hampshire","","Place of residence profile","",""
+"33000","New Hampshire","10","Personal income (millions of dollars)",67528.8,75858.2
+"33000","New Hampshire","","Derivation of personal income","",""
+"33000","New Hampshire","45","Net earnings by place of residence",46717.8,51216.4
+"33000","New Hampshire","","Per capita incomes (dollars)","",""
+"33000","New Hampshire","110","Per capita personal income 4/",50995,56513
+"33000","New Hampshire","120","Per capita net earnings 4/",35279,38156
+"33000","New Hampshire","","Place of work profile (millions of dollars)","",""
+"33000","New Hampshire","180","Earnings by place of work",45554.3,50899.9
+"33000","New Hampshire","190","  Wages and salaries",30470.8,35717.9
+"33000","New Hampshire","290","Average earnings per job (dollars)",55260,58296
+"34000","New Jersey","","Place of residence profile","",""
+"34000","New Jersey","10","Personal income (millions of dollars)",491662.0,557461.9
+"34000","New Jersey","","Derivation of personal income","",""
+"34000","New Jersey","45","Net earnings by place of residence",332691.2,374070.1
+"34000","New Jersey","","Per capita incomes (dollars)","",""
+"34000","New Jersey","110","Per capita personal income 4/",55587,62842
+"34000","New Jersey","120","Per capita net earnings 4/",37614,42169
+"34000","New Jersey","","Place of work profile (millions of dollars)","",""
+"34000","New Jersey","180","Earnings by place of work",325057.3,367100.1
+"34000","New Jersey","190","  Wages and salaries",228013.4,256914.4
+"34000","New Jersey","290","Average earnings per job (dollars)",64319,68091
+"35000","New Mexico","","Place of residence profile","",""
+"35000","New Mexico","10","Personal income (millions of dollars)",74578.4,81626.5
+"35000","New Mexico","","Derivation of personal income","",""
+"35000","New Mexico","45","Net earnings by place of residence",44277.9,46005.7
+"35000","New Mexico","","Per capita incomes (dollars)","",""
+"35000","New Mexico","110","Per capita personal income 4/",35729,39025
+"35000","New Mexico","120","Per capita net earnings 4/",21213,21995
+"35000","New Mexico","","Place of work profile (millions of dollars)","",""
+"35000","New Mexico","180","Earnings by place of work",49435.9,52437.4
+"35000","New Mexico","190","  Wages and salaries",34992.6,37625.2
+"35000","New Mexico","290","Average earnings per job (dollars)",46323,47998
+"36000","New York","","Place of residence profile","",""
+"36000","New York","10","Personal income (millions of dollars)",1056671.2,1205507.2
+"36000","New York","","Derivation of personal income","",""
+"36000","New York","45","Net earnings by place of residence",671197.7,750064.8
+"36000","New York","","Per capita incomes (dollars)","",""
+"36000","New York","110","Per capita personal income 4/",53986,61401
+"36000","New York","120","Per capita net earnings 4/",34292,38203
+"36000","New York","","Place of work profile (millions of dollars)","",""
+"36000","New York","180","Earnings by place of work",798315.2,907924.5
+"36000","New York","190","  Wages and salaries",553648.4,641030.8
+"36000","New York","290","Average earnings per job (dollars)",69826,74061
+"37000","North Carolina","","Place of residence profile","",""
+"37000","North Carolina","10","Personal income (millions of dollars)",379925.3,434789.0
+"37000","North Carolina","","Derivation of personal income","",""
+"37000","North Carolina","45","Net earnings by place of residence",239177.1,267849.4
+"37000","North Carolina","","Per capita incomes (dollars)","",""
+"37000","North Carolina","110","Per capita personal income 4/",38969,42816
+"37000","North Carolina","120","Per capita net earnings 4/",24532,26377
+"37000","North Carolina","","Place of work profile (millions of dollars)","",""
+"37000","North Carolina","180","Earnings by place of work",267072.2,304804.0
+"37000","North Carolina","190","  Wages and salaries",187090.8,221576.4
+"37000","North Carolina","290","Average earnings per job (dollars)",49860,52291
+"38000","North Dakota","","Place of residence profile","",""
+"38000","North Dakota","10","Personal income (millions of dollars)",38859.8,39104.0
+"38000","North Dakota","","Derivation of personal income","",""
+"38000","North Dakota","45","Net earnings by place of residence",26614.4,25307.0
+"38000","North Dakota","","Per capita incomes (dollars)","",""
+"38000","North Dakota","110","Per capita personal income 4/",55421,51832
+"38000","North Dakota","120","Per capita net earnings 4/",37957,33544
+"38000","North Dakota","","Place of work profile (millions of dollars)","",""
+"38000","North Dakota","180","Earnings by place of work",31359.4,30964.6
+"38000","North Dakota","190","  Wages and salaries",20175.4,21663.6
+"38000","North Dakota","290","Average earnings per job (dollars)",55270,53673
+"39000","Ohio","","Place of residence profile","",""
+"39000","Ohio","10","Personal income (millions of dollars)",469260.8,526177.2
+"39000","Ohio","","Derivation of personal income","",""
+"39000","Ohio","45","Net earnings by place of residence",301796.0,332647.8
+"39000","Ohio","","Per capita incomes (dollars)","",""
+"39000","Ohio","110","Per capita personal income 4/",40632,45226
+"39000","Ohio","120","Per capita net earnings 4/",26132,28592
+"39000","Ohio","","Place of work profile (millions of dollars)","",""
+"39000","Ohio","180","Earnings by place of work",336530.0,376260.2
+"39000","Ohio","190","  Wages and salaries",239221.0,270919.7
+"39000","Ohio","290","Average earnings per job (dollars)",50944,54280
+"40000","Oklahoma","","Place of residence profile","",""
+"40000","Oklahoma","10","Personal income (millions of dollars)",158353.9,164463.4
+"40000","Oklahoma","","Derivation of personal income","",""
+"40000","Oklahoma","45","Net earnings by place of residence",100501.3,101628.4
+"40000","Oklahoma","","Per capita incomes (dollars)","",""
+"40000","Oklahoma","110","Per capita personal income 4/",41467,41887
+"40000","Oklahoma","120","Per capita net earnings 4/",26317,25884
+"40000","Oklahoma","","Place of work profile (millions of dollars)","",""
+"40000","Oklahoma","180","Earnings by place of work",110266.8,113221.4
+"40000","Oklahoma","190","  Wages and salaries",70150.0,75608.7
+"40000","Oklahoma","290","Average earnings per job (dollars)",49854,49513
+"41000","Oregon","","Place of residence profile","",""
+"41000","Oregon","10","Personal income (millions of dollars)",154408.5,190534.2
+"41000","Oregon","","Derivation of personal income","",""
+"41000","Oregon","45","Net earnings by place of residence",93868.2,113870.5
+"41000","Oregon","","Per capita incomes (dollars)","",""
+"41000","Oregon","110","Per capita personal income 4/",39602,46586
+"41000","Oregon","120","Per capita net earnings 4/",24075,27841
+"41000","Oregon","","Place of work profile (millions of dollars)","",""
+"41000","Oregon","180","Earnings by place of work",109893.8,135042.1
+"41000","Oregon","190","  Wages and salaries",77112.3,95860.8
+"41000","Oregon","290","Average earnings per job (dollars)",49504,55111
+"42000","Pennsylvania","","Place of residence profile","",""
+"42000","Pennsylvania","10","Personal income (millions of dollars)",587521.9,662352.9
+"42000","Pennsylvania","","Derivation of personal income","",""
+"42000","Pennsylvania","45","Net earnings by place of residence",374718.3,419995.6
+"42000","Pennsylvania","","Per capita incomes (dollars)","",""
+"42000","Pennsylvania","110","Per capita personal income 4/",46018,51818
+"42000","Pennsylvania","120","Per capita net earnings 4/",29350,32858
+"42000","Pennsylvania","","Place of work profile (millions of dollars)","",""
+"42000","Pennsylvania","180","Earnings by place of work",406815.0,461629.5
+"42000","Pennsylvania","190","  Wages and salaries",279980.5,312657.4
+"42000","Pennsylvania","290","Average earnings per job (dollars)",55847,60789
+"44000","Rhode Island","","Place of residence profile","",""
+"44000","Rhode Island","10","Personal income (millions of dollars)",48810.3,53530.2
+"44000","Rhode Island","","Derivation of personal income","",""
+"44000","Rhode Island","45","Net earnings by place of residence",30337.3,32944.3
+"44000","Rhode Island","","Per capita incomes (dollars)","",""
+"44000","Rhode Island","110","Per capita personal income 4/",46282,50655
+"44000","Rhode Island","120","Per capita net earnings 4/",28766,31175
+"44000","Rhode Island","","Place of work profile (millions of dollars)","",""
+"44000","Rhode Island","180","Earnings by place of work",32495.2,36046.5
+"44000","Rhode Island","190","  Wages and salaries",22662.0,26134.3
+"44000","Rhode Island","290","Average earnings per job (dollars)",54800,56989
+"45000","South Carolina","","Place of residence profile","",""
+"45000","South Carolina","10","Personal income (millions of dollars)",167797.5,201138.8
+"45000","South Carolina","","Derivation of personal income","",""
+"45000","South Carolina","45","Net earnings by place of residence",101463.3,119576.9
+"45000","South Carolina","","Per capita incomes (dollars)","",""
+"45000","South Carolina","110","Per capita personal income 4/",35570,40569
+"45000","South Carolina","120","Per capita net earnings 4/",21509,24118
+"45000","South Carolina","","Place of work profile (millions of dollars)","",""
+"45000","South Carolina","180","Earnings by place of work",110349.6,131233.8
+"45000","South Carolina","190","  Wages and salaries",79010.4,94374.5
+"45000","South Carolina","290","Average earnings per job (dollars)",44980,48604
+"46000","South Dakota","","Place of residence profile","",""
+"46000","South Dakota","10","Personal income (millions of dollars)",37659.4,42049.0
+"46000","South Dakota","","Derivation of personal income","",""
+"46000","South Dakota","45","Net earnings by place of residence",23679.2,25509.2
+"46000","South Dakota","","Per capita incomes (dollars)","",""
+"46000","South Dakota","110","Per capita personal income 4/",45179,48724
+"46000","South Dakota","120","Per capita net earnings 4/",28407,29559
+"46000","South Dakota","","Place of work profile (millions of dollars)","",""
+"46000","South Dakota","180","Earnings by place of work",26079.6,28594.7
+"46000","South Dakota","190","  Wages and salaries",15753.6,18357.0
+"46000","South Dakota","290","Average earnings per job (dollars)",45358,47864
+"47000","Tennessee","","Place of residence profile","",""
+"47000","Tennessee","10","Personal income (millions of dollars)",253613.1,289936.0
+"47000","Tennessee","","Derivation of personal income","",""
+"47000","Tennessee","45","Net earnings by place of residence",165591.8,190069.3
+"47000","Tennessee","","Per capita incomes (dollars)","",""
+"47000","Tennessee","110","Per capita personal income 4/",39296,43626
+"47000","Tennessee","120","Per capita net earnings 4/",25658,28599
+"47000","Tennessee","","Place of work profile (millions of dollars)","",""
+"47000","Tennessee","180","Earnings by place of work",183863.5,214171.6
+"47000","Tennessee","190","  Wages and salaries",121832.6,142765.3
+"47000","Tennessee","290","Average earnings per job (dollars)",50579,54206
+"48000","Texas","","Place of residence profile","",""
+"48000","Texas","10","Personal income (millions of dollars)",1132222.1,1278552.1
+"48000","Texas","","Derivation of personal income","",""
+"48000","Texas","45","Net earnings by place of residence",774212.6,859618.5
+"48000","Texas","","Per capita incomes (dollars)","",""
+"48000","Texas","110","Per capita personal income 4/",43406,45803
+"48000","Texas","120","Per capita net earnings 4/",29681,30795
+"48000","Texas","","Place of work profile (millions of dollars)","",""
+"48000","Texas","180","Earnings by place of work",848490.0,958641.2
+"48000","Texas","190","  Wages and salaries",568953.2,670852.8
+"48000","Texas","290","Average earnings per job (dollars)",56207,57455
+"49000","Utah","","Place of residence profile","",""
+"49000","Utah","10","Personal income (millions of dollars)",103120.6,128900.6
+"49000","Utah","","Derivation of personal income","",""
+"49000","Utah","45","Net earnings by place of residence",68626.7,84305.8
+"49000","Utah","","Per capita incomes (dollars)","",""
+"49000","Utah","110","Per capita personal income 4/",36140,42375
+"49000","Utah","120","Per capita net earnings 4/",24051,27715
+"49000","Utah","","Place of work profile (millions of dollars)","",""
+"49000","Utah","180","Earnings by place of work",76464.5,95095.3
+"49000","Utah","190","  Wages and salaries",55085.0,68326.9
+"49000","Utah","290","Average earnings per job (dollars)",44819,49185
+"50000","Vermont","","Place of residence profile","",""
+"50000","Vermont","10","Personal income (millions of dollars)",28395.7,31445.0
+"50000","Vermont","","Derivation of personal income","",""
+"50000","Vermont","45","Net earnings by place of residence",17418.5,18441.2
+"50000","Vermont","","Per capita incomes (dollars)","",""
+"50000","Vermont","110","Per capita personal income 4/",45354,50420
+"50000","Vermont","120","Per capita net earnings 4/",27821,29569
+"50000","Vermont","","Place of work profile (millions of dollars)","",""
+"50000","Vermont","180","Earnings by place of work",19110.9,20645.8
+"50000","Vermont","190","  Wages and salaries",12791.3,14454.3
+"50000","Vermont","290","Average earnings per job (dollars)",45307,47579
+"51000","Virginia","","Place of residence profile","",""
+"51000","Virginia","10","Personal income (millions of dollars)",405863.9,452400.5
+"51000","Virginia","","Derivation of personal income","",""
+"51000","Virginia","45","Net earnings by place of residence",272123.5,295446.1
+"51000","Virginia","","Per capita incomes (dollars)","",""
+"51000","Virginia","110","Per capita personal income 4/",49586,53792
+"51000","Virginia","120","Per capita net earnings 4/",33246,35130
+"51000","Virginia","","Place of work profile (millions of dollars)","",""
+"51000","Virginia","180","Earnings by place of work",283272.8,311109.0
+"51000","Virginia","190","  Wages and salaries",208182.2,230791.2
+"51000","Virginia","290","Average earnings per job (dollars)",58324,60495
+"53000","Washington","","Place of residence profile","",""
+"53000","Washington","10","Personal income (millions of dollars)",329258.6,407060.4
+"53000","Washington","","Derivation of personal income","",""
+"53000","Washington","45","Net earnings by place of residence",208867.6,252371.0
+"53000","Washington","","Per capita incomes (dollars)","",""
+"53000","Washington","110","Per capita personal income 4/",47739,55802
+"53000","Washington","120","Per capita net earnings 4/",30284,34596
+"53000","Washington","","Place of work profile (millions of dollars)","",""
+"53000","Washington","180","Earnings by place of work",229958.5,281761.6
+"53000","Washington","190","  Wages and salaries",164083.0,203418.1
+"53000","Washington","290","Average earnings per job (dollars)",58825,65372
+"54000","West Virginia","","Place of residence profile","",""
+"54000","West Virginia","10","Personal income (millions of dollars)",65206.2,67928.7
+"54000","West Virginia","","Derivation of personal income","",""
+"54000","West Virginia","45","Net earnings by place of residence",38253.5,37694.6
+"54000","West Virginia","","Per capita incomes (dollars)","",""
+"54000","West Virginia","110","Per capita personal income 4/",35116,37099
+"54000","West Virginia","120","Per capita net earnings 4/",20601,20587
+"54000","West Virginia","","Place of work profile (millions of dollars)","",""
+"54000","West Virginia","180","Earnings by place of work",41537.8,41283.5
+"54000","West Virginia","190","  Wages and salaries",29436.5,29713.9
+"54000","West Virginia","290","Average earnings per job (dollars)",45202,46380
+"55000","Wisconsin","","Place of residence profile","",""
+"55000","Wisconsin","10","Personal income (millions of dollars)",246150.8,274764.7
+"55000","Wisconsin","","Derivation of personal income","",""
+"55000","Wisconsin","45","Net earnings by place of residence",159171.7,175023.4
+"55000","Wisconsin","","Per capita incomes (dollars)","",""
+"55000","Wisconsin","110","Per capita personal income 4/",43034,47598
+"55000","Wisconsin","120","Per capita net earnings 4/",27827,30320
+"55000","Wisconsin","","Place of work profile (millions of dollars)","",""
+"55000","Wisconsin","180","Earnings by place of work",173641.7,193629.8
+"55000","Wisconsin","190","  Wages and salaries",121213.3,138747.3
+"55000","Wisconsin","290","Average earnings per job (dollars)",49620,52933
+"56000","Wyoming","","Place of residence profile","",""
+"56000","Wyoming","10","Personal income (millions of dollars)",30846.1,31645.7
+"56000","Wyoming","","Derivation of personal income","",""
+"56000","Wyoming","45","Net earnings by place of residence",17895.5,17966.4
+"56000","Wyoming","","Per capita incomes (dollars)","",""
+"56000","Wyoming","110","Per capita personal income 4/",53524,54168
+"56000","Wyoming","120","Per capita net earnings 4/",31052,30753
+"56000","Wyoming","","Place of work profile (millions of dollars)","",""
+"56000","Wyoming","180","Earnings by place of work",20356.6,20738.7
+"56000","Wyoming","190","  Wages and salaries",13542.5,13416.7
+"56000","Wyoming","290","Average earnings per job (dollars)",51314,52072
+"Legend / Footnotes:"
+"4/ Type of income divided by midyear population estimates of the Census Bureau yields a per capita measure for that type of income."
+"Note-- All dollar estimates are in millions of current dollars (not adjusted for inflation). Calculations are performed on unrounded data."
+"Last updated: September 24, 2020-- new statistics for 2019; revised statistics for 2013-2018."
