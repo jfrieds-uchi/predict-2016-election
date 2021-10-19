@@ -125,3 +125,30 @@ def test_harness(): # source: lecture
     return results
 
 accuracy_results = test_harness()
+
+def fit_model(y_test_df, predict):
+    '''Fit model and return results of model'''
+    model = DecisionTreeClassifier()
+    model.fit(x_train_2012, y_train_2012)
+    predict = model.predict(x_test_2016)
+    return predict
+
+results_2016 = fit_model(y_test_2016, predict)
+
+def print_class_report(y_test, predict):
+    y_class_report = y_test['party']
+    warnings.filterwarnings('ignore') # source: https://stackoverflow.com/questions/43162506/undefinedmetricwarning-f-score-is-ill-defined-and-being-set-to-0-0-in-labels-wi
+    print(classification_report(y_class_report, predict))
+
+report = print_class_report(y_test_2016, predict)
+
+def see_predictions():
+    '''Returns dataframes of all states, predictions, and actual results'''
+    df_all = y_test_2016
+    df_all['state'] = test_2016['state']
+    df_all['predictions'] = predict
+    df_all = df_all.rename(columns={'party': 'actual'})
+    df_all = df_all[['state', 'predictions', 'actual']]
+    return df_all
+
+all_predictions_2016 = see_predictions()
